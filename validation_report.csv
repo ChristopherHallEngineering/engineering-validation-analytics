@@ -1,0 +1,3 @@
+test_group,n,mean,sample_stdev,min,max,normal_approx_ci95_lower,normal_approx_ci95_upper,observations_outside_limits,all_observations_within_limits
+Prototype A,6,10.05,0.18708,9.8,10.3,9.9003,10.1997,0,True
+Prototype B,6,10.2,0.26077,9.9,10.6,9.99134,10.40866,1,False

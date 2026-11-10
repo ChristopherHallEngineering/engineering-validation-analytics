@@ -1,0 +1,13 @@
+test_group,measurement,lower_limit,upper_limit
+Prototype A,10.0,9.5,10.5
+Prototype A,10.2,9.5,10.5
+Prototype A,9.9,9.5,10.5
+Prototype A,10.1,9.5,10.5
+Prototype A,10.3,9.5,10.5
+Prototype A,9.8,9.5,10.5
+Prototype B,10.0,9.5,10.5
+Prototype B,10.6,9.5,10.5
+Prototype B,10.2,9.5,10.5
+Prototype B,10.1,9.5,10.5
+Prototype B,10.4,9.5,10.5
+Prototype B,9.9,9.5,10.5
